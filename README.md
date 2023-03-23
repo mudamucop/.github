@@ -32,7 +32,7 @@
   <h3 align="center">muDamu</h3>
 
   <p align="center">
-    University project org. for a AI health software. Made in 2022 by <a href="https://github.com/AitorAstorga">Aitor Astorga Saez de Vicuña</a>, <a href="https://github.com/danmazkih">Danel Mazkiaran Hernandez</a>, <a href="https://github.com/">Aitor Oruna Rodriguez</a> and <a href="https://github.com/">Ibai Rodriguez Ruiz</a>
+    University project org. for a AI powered health software. Made in 2022 by <a href="https://github.com/AitorAstorga">Aitor Astorga Saez de Vicuña</a>, <a href="https://github.com/danmazkih">Danel Mazkiaran Hernandez</a>, <a href="https://github.com/">Aitor Oruna Rodriguez</a> and <a href="https://github.com/">Ibai Rodriguez Ruiz</a>
     <br />
     <a href="https://github.com/mudamucop"><strong>Explore the docs »</strong></a>
     <br />
