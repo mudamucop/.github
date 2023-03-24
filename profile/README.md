@@ -82,11 +82,11 @@ University proyect with AI about a communication system that allows the symptoms
 There are 5 different repositories:
 
 (this project is being migrated from GitLab, find the original project in [https://gitlab.com/m11137/mudamu](https://gitlab.com/m11137/mudamu))
-* mudamu_pacientes: It is the functional version of the patients web page. The Jenkins service detects changes to it and automatically deploys them as a patient web service.
-* RabbitMQ Workers: Used to manage RabbitMQ test versions for workers. The final version is integrated into web services.
-* mudamu_workers: It is the functional version of the workers web page, the branch that Jenkins listens to deploy as a workers web service.
-* PatientRabbit: It is used to manage test versions of RabbitMQ for patients. The final version is integrated into web services.
-* mudamu_mysql: It is the functional version of the database API. Jenkins listens for updates in it to deploy it as a web service when it receives them.
+* [mudamu_pacientes](https://github.com/mudamucop/mudamu_pacientes): It is the functional version of the patients web page. The Jenkins service detects changes to it and automatically deploys them as a patient web service.
+* [TrabajadoresRabbit](https://github.com/mudamucop/TrabajadoresRabbit): Used to manage RabbitMQ test versions for workers. The final version is integrated into web services.
+* [mudamu_trabajadores](https://github.com/mudamucop/mudamu_trabajadores): It is the functional version of the workers web page, the branch that Jenkins listens to deploy as a workers web service.
+* [PacienteRabbit](https://github.com/mudamucop/PacienteRabbit): It is used to manage test versions of RabbitMQ for patients. The final version is integrated into web services.
+* [mudamu_mysql](https://github.com/mudamucop/mudamu_mysql): It is the functional version of the database API. Jenkins listens for updates in it to deploy it as a web service when it receives them.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
